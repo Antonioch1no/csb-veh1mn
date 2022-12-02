@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://antonioch1no.github.io/csb-veh1mn/static/css/main.e2fd6773.chunk.css",
+    "main.js": "https://antonioch1no.github.io/csb-veh1mn/static/js/main.c4e4f084.chunk.js",
+    "main.js.map": "https://antonioch1no.github.io/csb-veh1mn/static/js/main.c4e4f084.chunk.js.map",
+    "runtime-main.js": "https://antonioch1no.github.io/csb-veh1mn/static/js/runtime-main.b6e10687.js",
+    "runtime-main.js.map": "https://antonioch1no.github.io/csb-veh1mn/static/js/runtime-main.b6e10687.js.map",
+    "static/css/2.222e94e2.chunk.css": "https://antonioch1no.github.io/csb-veh1mn/static/css/2.222e94e2.chunk.css",
+    "static/js/2.47fb49fa.chunk.js": "https://antonioch1no.github.io/csb-veh1mn/static/js/2.47fb49fa.chunk.js",
+    "static/js/2.47fb49fa.chunk.js.map": "https://antonioch1no.github.io/csb-veh1mn/static/js/2.47fb49fa.chunk.js.map",
+    "index.html": "https://antonioch1no.github.io/csb-veh1mn/index.html",
+    "static/css/2.222e94e2.chunk.css.map": "https://antonioch1no.github.io/csb-veh1mn/static/css/2.222e94e2.chunk.css.map",
+    "static/css/main.e2fd6773.chunk.css.map": "https://antonioch1no.github.io/csb-veh1mn/static/css/main.e2fd6773.chunk.css.map",
+    "static/js/2.47fb49fa.chunk.js.LICENSE.txt": "https://antonioch1no.github.io/csb-veh1mn/static/js/2.47fb49fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6e10687.js",
+    "static/css/2.222e94e2.chunk.css",
+    "static/js/2.47fb49fa.chunk.js",
+    "static/css/main.e2fd6773.chunk.css",
+    "static/js/main.c4e4f084.chunk.js"
+  ]
+}
